@@ -172,7 +172,7 @@ function! gruvbox_material#get_palette(background, palette) "{{{
             \ 'green':            ['#a9b665',   '142'],
             \ 'aqua':             ['#DE935F',   '108'],
             \ 'blue':             ['#8da3b9',   '109'],
-            \ 'purple':           ['#d3869b',   '175'],
+            \ 'purple':           ['#909BC4',   '175'],
             \ 'bg_red':           ['#ea6962',   '167'],
             \ 'bg_green':         ['#a9b665',   '142'],
             \ 'bg_yellow':        ['#d8a657',   '214']
