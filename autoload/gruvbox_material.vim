@@ -168,11 +168,11 @@ function! gruvbox_material#get_palette(background, palette) "{{{
             \ 'fg1':              ['#ddc7a1',   '223'],
             \ 'red':              ['#ea6962',   '167'],
             \ 'orange':           ['#DE935F',   '208'],
-            \ 'yellow':           ['#ebb679',   '214'],
+            \ 'yellow':           ['#FFCB6B',   '214'],
             \ 'green':            ['#a9b665',   '142'],
             \ 'aqua':             ['#DE935F',   '108'],
             \ 'blue':             ['#8da3b9',   '109'],
-            \ 'purple':           ['#E26A6A',   '175'],
+            \ 'purple':           ['#8da3b9',   '175'],
             \ 'bg_red':           ['#ea6962',   '167'],
             \ 'bg_green':         ['#a9b665',   '142'],
             \ 'bg_yellow':        ['#d8a657',   '214']
